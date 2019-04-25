@@ -1,0 +1,7 @@
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\InheritanceBase\bin\Debug\InheritanceBase.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\InheritanceBase\bin\Debug\InheritanceBase.exe
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\InheritanceBase\bin\Debug\InheritanceBase.pdb
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\InheritanceBase\obj\Debug\InheritanceBase.csprojAssemblyReference.cache
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\InheritanceBase\obj\Debug\InheritanceBase.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\InheritanceBase\obj\Debug\InheritanceBase.exe
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\InheritanceBase\obj\Debug\InheritanceBase.pdb

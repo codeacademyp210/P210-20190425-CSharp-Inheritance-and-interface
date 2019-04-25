@@ -1,0 +1,6 @@
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\Task20190424\bin\Debug\Task20190424.exe.config
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\Task20190424\bin\Debug\Task20190424.exe
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\Task20190424\bin\Debug\Task20190424.pdb
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\Task20190424\obj\Debug\Task20190424.csproj.CoreCompileInputs.cache
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\Task20190424\obj\Debug\Task20190424.exe
+C:\Users\sattar\Desktop\P210\C#\20190425\Solution20190425\Task20190424\obj\Debug\Task20190424.pdb
